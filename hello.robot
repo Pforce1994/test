@@ -4,3 +4,5 @@ Library    SeleniumLibrary
 log 
     Log To Console    hello
 *** Test Cases ***
+dfrt
+    Log To Console    ghf
