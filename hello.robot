@@ -6,3 +6,4 @@ log
 *** Test Cases ***
 dfrt
     Log To Console    ghf
+    Log To Console    rgsdfh
